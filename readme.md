@@ -9,3 +9,5 @@ I will be developing this application in stages:
 3. SQLite storage using Entity Framework with command line usage.
 4. Server-Client interaction via Web Sockets.
 5. Hosted web server with JavaScript framework client.
+
+I will be using a git branch for each stage, as well as using feature branching on those branches.
